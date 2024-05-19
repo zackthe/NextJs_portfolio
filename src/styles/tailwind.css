@@ -1,0 +1,16 @@
+@import 'tailwindcss/base.css';
+@import 'tailwindcss/components';
+@import './prism.css';
+@import 'tailwindcss/utilities';
+
+
+
+
+.web-developer {
+    background: linear-gradient(to right, #a456f0 10%, #f01a53 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 1;
+
+    /* color: var(--clr-rose2);*/
+  }
