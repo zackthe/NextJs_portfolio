@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spotlight
 
 Spotlight is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
@@ -40,3 +41,7 @@ To learn more about the technologies used in this site template, see the followi
 - [Next.js](https://nextjs.org/docs) - the official Next.js documentation
 - [Headless UI](https://headlessui.dev) - the official Headless UI documentation
 - [MDX](https://mdxjs.com) - the MDX documentation
+=======
+# nextjs_portfolio
+my nextjs portfolio using app router
+>>>>>>> d6e1ac4f0b310bd52c07ff35e0c0fea8022e11dc
