@@ -7,7 +7,6 @@ import { Card } from '@/components/Card'
 import { Container } from '@/components/Container'
 
 
-
 import logoAirbnb from '@/images/logos/airbnb.svg'
 import logoFacebook from '@/images/logos/facebook.svg'
 import logoPlanetaria from '@/images/logos/planetaria.svg'
@@ -25,9 +24,6 @@ import { Project } from '@/components/Project'
 import Hero from '@/components/Hero'
 import { Services } from '@/components/Services'
 import Testimonials from '@/components/Testimonials'
-import Cta from '@/components/Cta'
-import ProjectAnimation from '@/components/ProjectAnimation'
-import ProjectScroll from '@/components/ProjectScroll'
 import About from '@/components/about'
 
 
