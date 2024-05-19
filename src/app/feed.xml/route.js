@@ -1,4 +1,4 @@
-import assert from 'assert'
+/*import assert from 'assert'
 import * as cheerio from 'cheerio'
 import { Feed } from 'feed'
 
@@ -67,4 +67,4 @@ export async function GET(req) {
       'cache-control': 's-maxage=31556952',
     },
   })
-}
+}*/
