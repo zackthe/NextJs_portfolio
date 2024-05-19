@@ -51,19 +51,20 @@ export default function SimpleFooter() {
 
       <div 
       className=" flex justify-center space-x-10">
-        <SocialLink href="#" aria-label="Follow on X" icon={XIcon} />
         <SocialLink
-          href="#"
-          aria-label="Follow on Instagram"
-          icon={InstagramIcon}
-        />
+         href="https://twitter.com/Zakariae_Bl"
+         target="_blank"
+         aria-label="Follow on X"
+         icon={XIcon} />
         <SocialLink
-          href="#"
+          href="https://github.com/zackthe?tab=repositories"
+          target="_blank"
           aria-label="Follow on GitHub"
           icon={GitHubIcon}
         />
         <SocialLink
-          href="#"
+          href="https://www.linkedin.com/in/zakariae-belkasmi-882b34170/"
+          target="_blank"
           aria-label="Follow on LinkedIn"
           icon={LinkedInIcon}
         />
