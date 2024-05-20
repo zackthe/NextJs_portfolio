@@ -60,7 +60,7 @@ const people = [
 const paragraphs  = 
 
 [ 
-  "Hello my name is zakariae belkasmi , I’m a passionate self-taught frontend developer based in Meknes morocco.",
+  "Hello my name is zakariae belkasmi , I’m a passionate self-taught frontend developer.",
   "I have a diverse skill set within the frontend ecosystem working with javascript and frameworks like react, gatsby and nextjs , I have a good understanding of UI/UX design principles and experience with responsive design. I'm always eager to learn new technologies and strive to improve my skills .",
   "I have worked with multiple clients as freelancer, helping them solve their problems, delivering projects on time and having positive feedbacks.",
   "currently i’m looking for a fulltime job where I can use my expertise and bring value, I believe that continuous learning and collaboration are key to personal growth and technological innovation.",

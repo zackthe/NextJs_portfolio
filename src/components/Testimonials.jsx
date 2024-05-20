@@ -44,7 +44,7 @@ export default function InfiniteMovingCardsDemo () {
  
 const testimonials = [
   {
-    quote: "J'ai eu une excellente expérience avec Zakaria pour le développement du site vitrine Cloutik.com avec Gatsby. Le résultat final est à la fois rapide et esthétique, répondant parfaitement à mes attentes. Zakaria a été professionnel, réactif et a su s'adapter à toutes mes demandes. Je recommande vivement ses services pour tout projet web.    " ,
+    quote: "I had an excellent experience with Zakaria for the development of the showcase website Cloutik.com with Gatsby. The final result is both fast and aesthetic, perfectly meeting my expectations. Zakaria was professional, responsive, and was able to adapt to all of my requests. I highly recommend his services for any web project." ,
     name: "Tarik moussaoui.",
     title: "software engineer, Co-founder of cloutik.com.",
   },
