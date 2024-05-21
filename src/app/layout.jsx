@@ -4,6 +4,7 @@ import clsx from 'clsx'
 
 
 import { Space_Grotesk , Roboto_Mono, Inter, Lora, Work_Sans, Manrope } from "next/font/google";
+import { Analytics } from "@vercel/analytics/react"
 
 import '@/styles/tailwind.css'
 
