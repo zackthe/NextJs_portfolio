@@ -25,6 +25,7 @@ import Hero from '@/components/Hero'
 import { Services } from '@/components/Services'
 import Testimonials from '@/components/Testimonials'
 import About from '@/components/about'
+import TextRevealDemo from '@/components/TextRevealDemo'
 
 
 
@@ -270,6 +271,7 @@ export default async function Home() {
     <About />
     <Project />
     <Services />
+    <TextRevealDemo />
     <Testimonials />
       
     </>
